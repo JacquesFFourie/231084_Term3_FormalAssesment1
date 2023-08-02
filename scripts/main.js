@@ -100,4 +100,20 @@ $("#plantsContainer").on('click', '.card', function(){
   $(this).find(".card-img-top").toggleClass("small");
 
 });
+deleteButtonRow1 = () => {
+  document.getElementById("row1").innerHTML = "";
+}
+deleteButtonRow2 = () => {
+  document.getElementById("row2").innerHTML = "";
+}
+deleteButtonRow3 = () => {
+  document.getElementById("row3").innerHTML = "";
+}
+deleteButtonRow4 = () => {
+  document.getElementById("row4").innerHTML = "";
+}
+deleteButtonRow5 = () => {
+  document.getElementById("row5").innerHTML = "";
+}
+
 

@@ -105,3 +105,54 @@ button {
     position: relative;
     bottom: -100px;
 }
+
+.hero-image-2 {
+    position: relative;
+    height: auto;
+    bottom: 400px;
+}
+
+.endC{
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+
+.backg{
+    background-color: #E6F2E9;
+}
+
+.collapsed{
+    background-color: #E6F2E9;
+}
+
+.accordion-collapse{
+    background-color: #E6F2E9;
+}
+
+.boardersR{
+    padding-top: 200px;
+}
+
+.list-group-item{
+    width: 33.33%;
+    height: 30vh;
+}
+
+.imageInWish{
+    height: 30vh;
+}
+.row-button{
+    height: 10vh;
+}
+.delete-button{
+    height: 6vh;
+    background-color: #d94a4a;
+
+}
+
+.addToCart-button{
+    height: 6vh;
+    background-color: #E6F2E9;
+    color: #2f2f2f;
+}
+
